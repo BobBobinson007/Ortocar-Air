@@ -40,7 +40,7 @@ Entwicklung einer kleinen, praktischen Aufbewahrungsbox für Ortocarlinsen.
 - Haltbarkeitstests durchführen und das Design entsprechend verbessern.
 - Temperaturbeständigkeit optimieren.
 - Wasserfestigkeit verbessern.
-- Auswurfmechanismus optimieren.
+- Ausdrücken optimieren.
 - Produktverpackung entwickeln.
 - Eigene Website erstellen.
 - Produkt vermarkten.
