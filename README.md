@@ -18,7 +18,7 @@ Entwicklung einer kleinen, praktischen Aufbewahrungsbox für Ortocarlinsen.
 
 ## CAD-Modell
 
-Hier können Screenshots, Renderings oder Fotos des CAD-Modells eingefügt werden.
+--
 
 ## Version 1 (V1)
 
