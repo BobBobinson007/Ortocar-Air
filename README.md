@@ -1,7 +1,7 @@
 # Ortocar-Air
 
 Ein CAD-Projekt für die Aufbewahrung von Ortocarlinsen.
-
+[Canva-Präsentation](https://canva.link/wytjep2eigazh8c)
 **Projekt von C., T., und L. am RBG**
 
 ## Projektziel
